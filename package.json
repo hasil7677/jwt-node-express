@@ -1,0 +1,23 @@
+{
+  "name": "jwt-node-express",
+  "version": "1.0.0",
+  "description": "Implementation of jwt auth using node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasil7677/jwt-node-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasil7677/jwt-node-express/issues"
+  },
+  "homepage": "https://github.com/hasil7677/jwt-node-express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
